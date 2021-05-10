@@ -1,6 +1,9 @@
 # Vaccine_Slot_Check
 This repo would help you to find available slots for a particular pincode.
 
+# Output
+![image](https://user-images.githubusercontent.com/21328515/117718157-5c649200-b1f9-11eb-8e6f-50cd1ce75217.jpeg)
+
 ## APIs
 Using Co-Win's [Public APIs](https://apisetu.gov.in/public/marketplace/api/cowin).
 
